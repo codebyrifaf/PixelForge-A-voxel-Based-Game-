@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Minecraft Working\\Minecraft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|D:\\Minecraft Working\\Minecraft\\assets\\scripts\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|D:\\Minecraft Working\\Minecraft\\assets\\scripts\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|D:\\Minecraft Working\\Minecraft\\assets\\scripts\\draganddrophandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draganddrophandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|D:\\Minecraft Working\\Minecraft\\assets\\scripts\\biomeattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\biomeattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|D:\\Minecraft Working\\Minecraft\\assets\\scripts\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D84558F-D623-0CB4-722B-FC6D96BDFC85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\Chunk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chunk.cs",
+              "ToolTip": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\Chunk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chunk.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAFYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:46:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BiomeAttributes.cs",
+              "DocumentMoniker": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\BiomeAttributes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BiomeAttributes.cs",
+              "ToolTip": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\BiomeAttributes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BiomeAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:46:34.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DragAndDropHandler.cs",
+              "DocumentMoniker": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\DragAndDropHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragAndDropHandler.cs",
+              "ToolTip": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\DragAndDropHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragAndDropHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:20:14.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\Structure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Structure.cs",
+              "ToolTip": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\Structure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Structure.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:04:38.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "World.cs",
+              "DocumentMoniker": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\World.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World.cs",
+              "ToolTip": "D:\\Minecraft Working\\Minecraft\\Assets\\Scripts\\World.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World.cs",
+              "ViewState": "AQIAAJQBAAAAAAAAAAAAAK0BAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T17:36:58.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
